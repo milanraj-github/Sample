@@ -1,7 +1,7 @@
 # 🏋️ Gym Slot Booking — Development & Build Guide
 
 **Phase:** Day 2 — Implementation (matches the Day 1 Design Document exactly)
-**Stack:** React.js · Node.js/Express · PostgreSQL · MongoDB · Redis (MERN + SQL)
+**Stack:** React.js · Node.js+Express.js · PostgreSQL · MongoDB · Redis (MERN + SQL)
 
 > This guide only covers what's in the approved design (`README.md`). No feature, endpoint, or table beyond what's listed there is included — per the assignment rule of "no additional features."
 
